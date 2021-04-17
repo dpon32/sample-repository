@@ -2,3 +2,4 @@ This is sample context
 Testing out git diff
 Adding in a diff
 This is a change on github
+This is a merge example on the local git.
